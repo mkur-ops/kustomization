@@ -1,0 +1,6 @@
+bases: 
+- ../../bases/haha
+images:
+- name: the-my-app
+  newName: my.docker.registry.com/my-project/my-app
+  newTag: 20240105
